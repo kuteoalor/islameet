@@ -88053,7 +88053,7 @@ $.a2G().n(0,o,p)
 p=t.N
 q=t.z
 s=2
-return A.L(o.Aq("bebra",A.aq(["elementClasses","skibidi","gtm",A.aq(["elementClasses","srka"],p,p)],p,q)),$async$$0)
+return A.L(o.Aq("bebra",A.aq(["elementClasses","skibidi","gtm",A.aq(["element","srka","elementId","elementId"],p,p)],p,q)),$async$$0)
 case 2:s=3
 return A.L(o.Aq("gtm.click",A.x(p,q)),$async$$0)
 case 3:return A.G(null,r)}})
